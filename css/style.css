@@ -1,6 +1,3 @@
-/* seanLeitch WEBSITE, Written by Sean Leitch */
-/* LAST UPDATED: 19-FEB-2020 */
-/* FIRST WRITTEN: 10-JUL-2019 */
 /* MATERIALIZE FRAMEWORK in use */
 
 html {
@@ -52,21 +49,29 @@ nav {
 
 /*Logo text in nav */
 .brand-logo {
-	font-family: 'Nunito', sans-serif;
+  font-family: 'Inria Sans', sans-serif;
   font-weight: 600;
-  font-size: 2em !important; 
+  font-size: 1.7em !important; 
 }
 
 /* Banner header Title Text*/
 .banner-header-text {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Inria Sans', sans-serif;
   font-size: 4em;
-  font-weight: 800;
+  font-weight: 400;
 }
 
 /* Banner header Title Text BG*/
 .banner-header-text-bg-cyan {
   background-color:#0BE6AF;
+
+  padding-left: 1%;
+  padding-right: 1%;;
+}
+
+/* Banner header Title Text BG*/
+.banner-header-text-bg-blue {
+  background-color:#141b85;
 
   padding-left: 1%;
   padding-right: 1%;;
@@ -97,14 +102,6 @@ nav {
 }
 
 /* Banner header Title Text BG*/
-.banner-header-text-bg-blue {
-  background-color:#2196F3;
-
-  padding-left: 0.8em;
-  padding-right: 0.8em;
-}
-
-/* Banner header Title Text BG*/
 .banner-header-text-bg-teal {
   background-color:#00766C;
 
@@ -115,7 +112,7 @@ nav {
 
 /* Banner header Title SubText*/
 .banner-header-subtext {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Inria Sans', sans-serif;
   font-size: 3em;
 	font-weight: 400;
 }
@@ -374,17 +371,17 @@ footer {
 }
 
 h4 {
-  font-family: 'Nunito';
+  font-family: 'Inria Sans', sans-serif;
 }
 
 /* H5 rowcontainer explanation text */
 .h5-row {
-  font-family: 'Nunito';
+  font-family: 'Inria Sans', sans-serif;
   font-weight: 300;
 }
 
 h5 {
-  font-family: 'Nunito';
+  font-family: 'Inria Sans', sans-serif;
 }
 
 /* Get started & portfolio button */
